@@ -3,15 +3,12 @@ import os
 
 def a_apple():
     print("i am apple")
-
-def a_banana():
     print("i am banana")
 
 def account():
+    print('name')
     print("account")
 
-def name():
-    print('name')
 
 if __name__ == "__main__":
     a_apple()
