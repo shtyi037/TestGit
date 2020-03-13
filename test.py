@@ -7,5 +7,8 @@ def a_apple():
 def a_banana():
     print("i am banana")
 
+def account():
+    print("account")
+
 if __name__ == "__main__":
     a_apple()
