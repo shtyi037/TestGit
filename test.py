@@ -10,5 +10,8 @@ def a_banana():
 def account():
     print("account")
 
+def name():
+    print('name')
+
 if __name__ == "__main__":
     a_apple()
