@@ -9,6 +9,8 @@ def account():
     print('name')
     print("account")
 
+def password():
+    print("A~Z")
 
 if __name__ == "__main__":
     a_apple()
