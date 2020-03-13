@@ -12,5 +12,8 @@ def account():
 def password():
     print("A~Z")
 
+def game_id():
+    print("game_id")
+
 if __name__ == "__main__":
     a_apple()
