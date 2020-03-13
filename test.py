@@ -15,5 +15,8 @@ def password():
 def game_id():
     print("game_id")
 
+def prints_number():
+    print("1 ")
+
 if __name__ == "__main__":
     a_apple()
