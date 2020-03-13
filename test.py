@@ -16,7 +16,7 @@ def game_id():
     print("game_id")
 
 def prints_number():
-    print("1 2 3 4 ")
+    print("1 2 3 ")
 
 if __name__ == "__main__":
     a_apple()
