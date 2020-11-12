@@ -591,3 +591,5 @@ print('confusion matrix: {}'.format(con_matrix))
 
 
 # 不同的比賽平台
+
+![Uploading file..._so7m1tcw9]()
